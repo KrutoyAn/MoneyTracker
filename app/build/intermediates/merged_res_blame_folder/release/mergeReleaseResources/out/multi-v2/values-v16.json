@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.codewithfk.expensetracker.android.app-mergeReleaseResources-62:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andrei\\.gradle\\caches\\8.13\\transforms\\3f55b6d1d82c7d3f47bd3d7db6eaf2df\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

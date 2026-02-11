@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.codewithfk.expensetracker.android.app-mergeReleaseResources-62:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Andrei\\.gradle\\caches\\8.13\\transforms\\3f55b6d1d82c7d3f47bd3d7db6eaf2df\\transformed\\appcompat-1.2.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

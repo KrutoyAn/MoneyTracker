@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_medium.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/xml_backup_rules.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_youtube.png.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_youtube.png"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_black.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_black.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_thin.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_thin.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_home.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_stats.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_stats.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_starbucks.png.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_starbucks.png"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_paypal.png.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_paypal.png"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_netflix.png.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_netflix.png"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/xml_data_extraction_rules.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_regular.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_extra_light.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_extra_light.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_bold.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_bold.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/layout_stats_line_chart.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/layout/stats_line_chart.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_dots_menu.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/dots_menu.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_filter.png.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_filter.png"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_char_gradient.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/char_gradient.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_expense.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_expense.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_topbar.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_topbar.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_addbutton.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_addbutton.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_semi_bold.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_semi_bold.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_income.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_income.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_light.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_light.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_back.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_upwork.png.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_upwork.png"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_add.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/font_inter_extra_bold.ttf.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/font/inter_extra_bold.ttf"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.codewithfk.expensetracker.android.app-debug-65:/drawable_ic_notification.xml.flat",
+        "source": "com.codewithfk.expensetracker.android.app-main-67:/drawable/ic_notification.xml"
+    }
+]
